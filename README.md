@@ -1,2 +1,2 @@
-# leetcode
+# Leetcode Submissions
 Leetcode Submitted Answers
