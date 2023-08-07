@@ -5,6 +5,13 @@
 | ------- | ------ |
 | 203ms | 17.98 MB |
 
+# is_palindrome.py
+:white_check_mark: Accepted
+
+| Runtime | Memory |
+| ------- | ------ |
+| 59ms | 16.16 MB |
+
 # move_zeros.py
 :white_check_mark: Accepted
 
