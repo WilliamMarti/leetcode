@@ -12,6 +12,14 @@
 | ------- | ------ |
 | 59ms | 16.16 MB |
 
+# longest_common_prefix.py
+:white_check_mark: Accepted
+
+| Runtime | Memory |
+| ------- | ------ |
+| 38ms | 16.40 MB |
+
+
 # move_zeros.py
 :white_check_mark: Accepted
 
