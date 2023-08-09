@@ -40,3 +40,10 @@
 | Runtime | Memory |
 | ------- | ------ |
 | 2514ms | 17.1 MB |
+
+# valid_parentheses.py
+:white_check_mark: Accepted
+
+| Runtime | Memory |
+| ------- | ------ |
+| 55ms | 16.58 MB |
